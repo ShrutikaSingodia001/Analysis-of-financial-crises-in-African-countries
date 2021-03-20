@@ -1,0 +1,473 @@
+,country,year,exch_usd,domestic_debt_in_default,inflation_annual_cpi,banking_crisis
+1,Algeria,1881,0.05,0,12.62,no_crisis
+2,Algeria,1882,0.05,0,-12.36,no_crisis
+3,Algeria,1883,0.05,0,-1.39,no_crisis
+4,Algeria,1884,0.05,0,-15.94,no_crisis
+5,Algeria,1939,0.45,0,9.76,no_crisis
+6,Algeria,1940,0.49,0,22.22,no_crisis
+7,Algeria,1941,0.45,0,16.36,no_crisis
+8,Algeria,1942,0.75,0,28.12,no_crisis
+9,Algeria,1943,0.5,0,46.34,no_crisis
+10,Algeria,1944,0.5,0,41.67,no_crisis
+11,Algeria,1945,1.19,0,29.41,no_crisis
+12,Algeria,1946,1.19,0,18.18,no_crisis
+13,Algeria,1947,1.19,0,69.23,no_crisis
+14,Algeria,1948,2.66,0,63.64,no_crisis
+15,Algeria,1949,3.49,0,23.61,no_crisis
+16,Algeria,1950,3.5,0,0,no_crisis
+17,Algeria,1951,3.5,0,6.74,no_crisis
+18,Algeria,1952,3.5,0,6.32,no_crisis
+19,Algeria,1953,3.5,0,-0.99,no_crisis
+20,Algeria,1954,3.5,0,1,no_crisis
+21,Algeria,1955,3.5,0,0,no_crisis
+22,Algeria,1956,3.5,0,1.98,no_crisis
+23,Algeria,1957,4.2,0,2.91,no_crisis
+24,Algeria,1958,4.91,0,12.26,no_crisis
+25,Algeria,1959,4.91,0,9.24,no_crisis
+26,Algeria,1960,4.94,0,5.38,no_crisis
+27,Algeria,1961,4.94,0,2.92,no_crisis
+28,Algeria,1968,4.94,0,6.6,no_crisis
+29,Algeria,1969,4.94,0,2.63,no_crisis
+30,Algeria,1970,4.94,0,3.66,no_crisis
+31,Algeria,1971,4.64,0,6.17,no_crisis
+32,Algeria,1972,4.56,0,4.73,no_crisis
+33,Algeria,1973,4.18,0,8.96,no_crisis
+34,Algeria,1974,4,0,8.88,no_crisis
+35,Algeria,1975,4.12,0,12.1,no_crisis
+36,Algeria,1976,4.36,0,17.17,no_crisis
+37,Algeria,1977,4.04,0,11.45,no_crisis
+38,Algeria,1978,3.83,0,9.67,no_crisis
+39,Algeria,1979,3.76,0,14.61,no_crisis
+40,Algeria,1980,3.97,0,9.67,no_crisis
+41,Algeria,1981,4.38,0,14.61,no_crisis
+42,Algeria,1982,4.64,0,6.59,no_crisis
+43,Algeria,1983,4.92,0,7.84,no_crisis
+44,Algeria,1984,5.12,0,6.31,no_crisis
+45,Algeria,1985,4.77,0,10.43,no_crisis
+46,Algeria,1986,4.82,0,14.01,no_crisis
+47,Algeria,1987,4.94,0,5.86,no_crisis
+48,Algeria,1988,6.73,0,5.94,no_crisis
+49,Algeria,1989,8.03,0,9.17,no_crisis
+50,Algeria,1990,12.19,0,9.27,crisis
+51,Algeria,1991,21.39,0,25.9,crisis
+52,Algeria,1992,22.78,0,31.7,crisis
+53,Algeria,1993,24.12,0,20.5,no_crisis
+54,Algeria,1994,42.89,0,29,no_crisis
+55,Algeria,1995,52.17,0,29.8,no_crisis
+56,Algeria,1996,56.19,0,18.7,no_crisis
+57,Algeria,1997,58.41,0,5.7,no_crisis
+58,Algeria,1998,60.35,0,4.95,no_crisis
+59,Algeria,1999,69.31,0,2.6,no_crisis
+60,Algeria,2000,75.34,0,0.3,no_crisis
+61,Algeria,2001,77.82,0,4.2,no_crisis
+62,Algeria,2002,79.72,0,1.43,no_crisis
+63,Algeria,2003,72.61,0,4.26,no_crisis
+64,Algeria,2004,72.61,0,3.97,no_crisis
+65,Algeria,2005,73.38,0,1.38,no_crisis
+66,Algeria,2006,71.16,0,2.32,no_crisis
+67,Algeria,2007,66.83,0,3.67,no_crisis
+68,Algeria,2008,71.18,0,4.86,no_crisis
+69,Algeria,2009,72.73,0,5.74,no_crisis
+70,Algeria,2010,74.94,0,3.91,no_crisis
+71,Algeria,2011,76.06,0,4.52,no_crisis
+72,Algeria,2012,78.1,0,8.92,no_crisis
+73,Algeria,2013,78.15,0,3.26,no_crisis
+74,Algeria,2014,87.97,0,2.92,no_crisis
+75,Angola,1921,0,0,29.63,no_crisis
+76,Angola,1922,0,0,45.71,no_crisis
+77,Angola,1923,0,0,68.63,no_crisis
+78,Angola,1924,0,0,126.74,no_crisis
+79,Angola,1925,0,0,-27.18,no_crisis
+80,Angola,1926,0,0,-7.04,no_crisis
+81,Angola,1927,0,0,-17.42,no_crisis
+82,Angola,1928,0,0,-9.17,no_crisis
+83,Angola,1929,0,0,-5.05,no_crisis
+84,Angola,1930,0,0,-5.32,no_crisis
+85,Angola,1931,0,0,0,no_crisis
+86,Angola,1932,0,0,-2.25,no_crisis
+87,Angola,1933,0,0,2.3,no_crisis
+88,Angola,1934,0,0,3.37,no_crisis
+89,Angola,1935,0,0,5.43,no_crisis
+90,Angola,1936,0,0,-1.03,no_crisis
+91,Angola,1937,0,0,2.08,no_crisis
+92,Angola,1938,0,0,2.04,no_crisis
+93,Angola,1939,0,0,1,no_crisis
+94,Angola,1940,0,0,13.86,no_crisis
+95,Angola,1941,0,0,16.52,no_crisis
+96,Angola,1942,0,0,17.91,no_crisis
+97,Angola,1943,0,0,13.92,no_crisis
+98,Angola,1944,0,0,7.78,no_crisis
+99,Angola,1945,0,0,5.15,no_crisis
+100,Angola,1946,0,0,4.9,no_crisis
+101,Angola,1947,0,0,13.55,no_crisis
+102,Angola,1948,0,0,-16.87,no_crisis
+103,Angola,1949,0,0,-0.99,no_crisis
+104,Angola,1950,0,0,4,no_crisis
+105,Angola,1951,0,0,-7.69,no_crisis
+106,Angola,1952,0,0,3.12,no_crisis
+107,Angola,1953,0,0,0,no_crisis
+108,Angola,1954,0,0,-4.04,no_crisis
+109,Angola,1955,0,0,0,no_crisis
+110,Angola,1956,0,0,3.16,no_crisis
+111,Angola,1957,0,0,1.02,no_crisis
+112,Angola,1958,0,0,2.02,no_crisis
+113,Angola,1959,0,0,0,no_crisis
+114,Angola,1960,0,0,-0.99,no_crisis
+115,Angola,1961,0,0,2,no_crisis
+116,Angola,1962,0,0,5.88,no_crisis
+117,Angola,1970,0,0,7.97,no_crisis
+118,Angola,1971,0,0,5.78,no_crisis
+119,Angola,1972,0,0,15.8,no_crisis
+120,Angola,1973,0,0,15.67,no_crisis
+121,Angola,1974,0,0,27.42,no_crisis
+122,Angola,1975,0,0,29,no_crisis
+123,Angola,1976,0,1,80.7,no_crisis
+124,Angola,1977,0,0,69.01,no_crisis
+125,Angola,1978,0,0,48.46,no_crisis
+126,Angola,1979,0,0,101.3,no_crisis
+127,Angola,1980,0,0,46.71,no_crisis
+128,Angola,1991,0,0,85.26,no_crisis
+134,Angola,1997,0.26,1,221.49,crisis
+135,Angola,1998,0.7,1,107.43,crisis
+136,Angola,1999,5.58,1,248.25,no_crisis
+138,Angola,2001,31.95,1,152.59,no_crisis
+139,Angola,2002,58.67,1,108.89,no_crisis
+140,Angola,2003,79.08,0,98.34,no_crisis
+141,Angola,2004,85.99,0,43.56,no_crisis
+142,Angola,2005,80.78,0,22.96,no_crisis
+143,Angola,2006,80.26,0,13.3,no_crisis
+144,Angola,2007,75.02,0,12.25,no_crisis
+145,Angola,2008,75.17,0,12.46,no_crisis
+146,Angola,2009,89.4,0,13.72,no_crisis
+147,Angola,2010,92.64,0,14.48,no_crisis
+148,Angola,2011,95.27,0,13.48,no_crisis
+149,Angola,2012,95.83,0,10.29,no_crisis
+150,Angola,2013,97.56,0,8.78,no_crisis
+152,Egypt,1881,0.2,0,-12.41,no_crisis
+153,Egypt,1882,0.2,0,4.23,no_crisis
+154,Egypt,1883,0.2,0,-2.23,no_crisis
+155,Egypt,1884,0.2,0,-0.48,no_crisis
+156,Egypt,1885,0.2,0,-6.44,no_crisis
+157,Egypt,1886,0.2,0,3.62,no_crisis
+158,Egypt,1887,0.2,0,-2.84,no_crisis
+159,Egypt,1888,0.2,0,-6.22,no_crisis
+160,Egypt,1889,0.2,0,-12.33,no_crisis
+161,Egypt,1890,0.2,0,7.95,no_crisis
+162,Egypt,1891,0.2,0,10.18,no_crisis
+163,Egypt,1892,0.2,0,1.96,no_crisis
+164,Egypt,1893,0.2,0,-13.92,no_crisis
+165,Egypt,1894,0.2,0,-4.95,no_crisis
+166,Egypt,1895,0.2,0,-5.58,no_crisis
+167,Egypt,1896,0.2,0,9.7,no_crisis
+168,Egypt,1897,0.2,0,2.85,no_crisis
+169,Egypt,1898,0.2,0,14.22,no_crisis
+170,Egypt,1899,0.2,0,-6.37,no_crisis
+171,Egypt,1900,0.2,0,7.39,no_crisis
+172,Egypt,1901,0.2,0,0.11,no_crisis
+173,Egypt,1902,0.2,0,-0.55,no_crisis
+174,Egypt,1903,0.2,0,-7.53,no_crisis
+175,Egypt,1904,0.2,0,-2.64,no_crisis
+176,Egypt,1905,0.2,0,15.36,no_crisis
+177,Egypt,1906,0.2,0,9.45,no_crisis
+178,Egypt,1907,0.2,0,1.31,crisis
+179,Egypt,1908,0.2,0,8.87,no_crisis
+180,Egypt,1909,0.2,0,1.19,no_crisis
+181,Egypt,1910,0.2,0,-11.74,no_crisis
+182,Egypt,1911,0.2,0,1.29,no_crisis
+183,Egypt,1912,0.2,0,6.24,no_crisis
+184,Egypt,1913,0.2,0,11.4,no_crisis
+185,Egypt,1914,0.2,0,-1.14,no_crisis
+186,Egypt,1915,0.21,0,-16,no_crisis
+187,Egypt,1916,0.2,0,19.33,no_crisis
+188,Egypt,1917,0.2,0,35.48,no_crisis
+189,Egypt,1918,0.2,0,18.05,no_crisis
+190,Egypt,1919,0.26,0,12.17,no_crisis
+191,Egypt,1920,0.28,0,20.6,no_crisis
+192,Egypt,1921,0.23,0,-28.5,no_crisis
+193,Egypt,1922,0.21,0,-11.81,no_crisis
+194,Egypt,1923,0.22,0,-10.9,no_crisis
+195,Egypt,1924,0.21,0,7.2,no_crisis
+196,Egypt,1925,0.2,0,5.68,no_crisis
+197,Egypt,1926,0.2,0,-11.35,no_crisis
+198,Egypt,1927,0.2,0,-8.36,no_crisis
+199,Egypt,1928,0.2,0,4.51,no_crisis
+200,Egypt,1929,0.2,0,-3.34,no_crisis
+201,Egypt,1930,0.2,0,-6.92,no_crisis
+202,Egypt,1931,0.29,0,-5.02,crisis
+203,Egypt,1932,0.3,0,-10.85,no_crisis
+204,Egypt,1933,0.19,0,-9.79,no_crisis
+205,Egypt,1934,0.2,0,23.97,no_crisis
+206,Egypt,1935,0.2,0,5.65,no_crisis
+207,Egypt,1936,0.2,0,-7.25,no_crisis
+208,Egypt,1937,0.2,0,-1.02,no_crisis
+209,Egypt,1938,0.21,0,11.43,no_crisis
+210,Egypt,1939,0.25,0,-1.44,no_crisis
+211,Egypt,1940,0.24,0,10.38,no_crisis
+212,Egypt,1941,0.24,0,24.19,no_crisis
+213,Egypt,1942,0.24,0,40.77,no_crisis
+214,Egypt,1943,0.24,0,17.49,no_crisis
+215,Egypt,1944,0.24,0,11.38,no_crisis
+216,Egypt,1945,0.24,0,0,no_crisis
+217,Egypt,1946,0.24,0,2.12,no_crisis
+218,Egypt,1947,0.24,0,-3.11,no_crisis
+219,Egypt,1948,0.24,0,0.71,no_crisis
+220,Egypt,1949,0.35,0,0,no_crisis
+221,Egypt,1950,0.35,0,8.51,no_crisis
+222,Egypt,1951,0.35,0,7.6,no_crisis
+223,Egypt,1952,0.35,0,-10.25,no_crisis
+224,Egypt,1953,0.35,0,-0.95,no_crisis
+225,Egypt,1954,0.35,0,-2.89,no_crisis
+226,Egypt,1955,0.35,0,0,no_crisis
+227,Egypt,1956,0.35,0,3.96,no_crisis
+228,Egypt,1957,0.35,0,3.25,no_crisis
+229,Egypt,1958,0.35,0,-1.34,no_crisis
+230,Egypt,1959,0.35,0,0.69,no_crisis
+231,Egypt,1960,0.35,0,0.73,no_crisis
+232,Egypt,1961,0.35,0,1.18,no_crisis
+233,Egypt,1962,0.43,0,-4.2,no_crisis
+234,Egypt,1963,0.43,0,2.06,no_crisis
+235,Egypt,1964,0.43,0,7.82,no_crisis
+236,Egypt,1965,0.43,0,13.12,no_crisis
+237,Egypt,1966,0.43,0,6.69,no_crisis
+238,Egypt,1967,0.43,0,0.12,no_crisis
+239,Egypt,1968,0.43,0,0.46,no_crisis
+240,Egypt,1969,0.43,0,3.68,no_crisis
+241,Egypt,1970,0.43,0,3.37,no_crisis
+242,Egypt,1971,0.43,0,2.94,no_crisis
+243,Egypt,1972,0.43,0,2.42,no_crisis
+244,Egypt,1973,0.43,0,5.74,no_crisis
+245,Egypt,1974,0.39,0,10.64,no_crisis
+246,Egypt,1975,0.39,0,9.9,no_crisis
+247,Egypt,1976,0.39,0,10.29,no_crisis
+248,Egypt,1977,0.39,0,11.61,no_crisis
+249,Egypt,1978,0.39,0,11.27,no_crisis
+250,Egypt,1979,0.7,0,9.9,no_crisis
+251,Egypt,1980,0.7,0,20.5,no_crisis
+252,Egypt,1981,0.7,0,10.4,crisis
+253,Egypt,1982,0.7,0,14.9,crisis
+254,Egypt,1983,0.7,0,15.98,crisis
+255,Egypt,1984,0.7,0,17.06,no_crisis
+256,Egypt,1985,0.7,0,12.11,no_crisis
+257,Egypt,1986,0.7,0,23.9,no_crisis
+258,Egypt,1987,0.7,0,25.18,no_crisis
+259,Egypt,1988,0.7,0,15.19,no_crisis
+260,Egypt,1989,1.1,0,20.13,no_crisis
+261,Egypt,1990,2,0,21.22,crisis
+262,Egypt,1991,3.33,0,14.74,crisis
+263,Egypt,1992,3.34,0,21.14,crisis
+264,Egypt,1993,3.37,0,11.04,crisis
+265,Egypt,1994,3.39,0,9.05,crisis
+266,Egypt,1995,3.39,0,9.36,crisis
+267,Egypt,1996,3.39,0,7.1,no_crisis
+268,Egypt,1997,3.39,0,6.17,no_crisis
+269,Egypt,1998,3.39,0,5.04,no_crisis
+270,Egypt,1999,3.4,0,3.74,no_crisis
+271,Egypt,2000,3.69,0,2.85,no_crisis
+272,Egypt,2001,4.49,0,2.43,no_crisis
+273,Egypt,2002,4.5,0,3.21,no_crisis
+274,Egypt,2003,6.15,0,0,no_crisis
+275,Egypt,2004,6.13,0,8.11,no_crisis
+276,Egypt,2005,5.73,0,8.83,no_crisis
+277,Egypt,2006,5.7,0,4.2,no_crisis
+278,Egypt,2007,5.5,0,10.96,no_crisis
+279,Egypt,2008,5.5,0,11.7,no_crisis
+280,Egypt,2009,5.48,0,16.24,no_crisis
+281,Egypt,2010,5.79,0,11.69,no_crisis
+282,Egypt,2011,6.02,0,11.09,no_crisis
+283,Egypt,2012,6.31,0,8.65,no_crisis
+284,Egypt,2013,6.94,0,6.91,no_crisis
+285,Egypt,2014,7.15,0,10.1,no_crisis
+286,South Africa,1900,0.21,0,4.11,no_crisis
+287,South Africa,1901,0.2,0,9.2,no_crisis
+288,South Africa,1902,0.2,0,2.41,no_crisis
+289,South Africa,1903,0.2,0,-8.24,no_crisis
+290,South Africa,1904,0.2,0,-5.13,no_crisis
+291,South Africa,1905,0.2,0,-6.75,no_crisis
+292,South Africa,1906,0.21,0,-7.25,no_crisis
+293,South Africa,1907,0.2,0,-1.56,no_crisis
+294,South Africa,1908,0.21,0,-1.59,no_crisis
+295,South Africa,1909,0.2,0,4.84,no_crisis
+296,South Africa,1910,0.2,0,15.39,no_crisis
+297,South Africa,1911,0.21,0,4,no_crisis
+298,South Africa,1912,0.2,0,2.56,no_crisis
+299,South Africa,1913,0.2,0,1.25,no_crisis
+300,South Africa,1914,0.19,0,1.24,no_crisis
+301,South Africa,1915,0.21,0,4.87,no_crisis
+302,South Africa,1916,0.21,0,5.82,no_crisis
+303,South Africa,1917,0.21,0,9.89,no_crisis
+304,South Africa,1918,0.21,0,7,no_crisis
+305,South Africa,1919,0.21,0,0.93,no_crisis
+306,South Africa,1920,0.25,0,35.19,no_crisis
+307,South Africa,1921,0.24,0,-18.07,no_crisis
+308,South Africa,1922,0.22,0,-3.96,no_crisis
+309,South Africa,1923,0.21,0,0.76,no_crisis
+310,South Africa,1924,0.21,0,0,no_crisis
+311,South Africa,1925,0.21,0,-1.51,no_crisis
+312,South Africa,1926,0.21,0,-1.52,no_crisis
+313,South Africa,1927,0.21,0,2.32,no_crisis
+314,South Africa,1928,0.21,0,-0.76,no_crisis
+315,South Africa,1929,0.21,0,-1.52,no_crisis
+316,South Africa,1930,0.21,0,-2.33,no_crisis
+317,South Africa,1931,0.21,0,-3.97,no_crisis
+318,South Africa,1932,0.21,0,-5.43,no_crisis
+319,South Africa,1933,0.2,0,2.4,no_crisis
+320,South Africa,1934,0.2,0,-1.45,no_crisis
+321,South Africa,1935,0.2,0,-0.45,no_crisis
+322,South Africa,1936,0.2,0,0.91,no_crisis
+323,South Africa,1937,0.2,0,5.64,no_crisis
+324,South Africa,1938,0.2,0,-0.32,no_crisis
+325,South Africa,1939,0.22,0,0.86,no_crisis
+326,South Africa,1940,0.25,0,3.93,no_crisis
+327,South Africa,1941,0.25,0,6.03,no_crisis
+328,South Africa,1942,0.25,0,8.67,no_crisis
+329,South Africa,1943,0.25,0,4.96,no_crisis
+330,South Africa,1944,0.25,0,3.88,no_crisis
+331,South Africa,1945,0.25,0,0.76,no_crisis
+332,South Africa,1946,0.25,0,6.06,no_crisis
+333,South Africa,1947,0.31,0,4.29,no_crisis
+334,South Africa,1948,0.29,0,6.85,no_crisis
+335,South Africa,1949,0.32,0,2.56,no_crisis
+336,South Africa,1950,0.36,0,6.88,no_crisis
+337,South Africa,1951,0.36,0,7.65,no_crisis
+338,South Africa,1952,0.36,0,6.61,no_crisis
+339,South Africa,1953,0.36,0,0.78,no_crisis
+340,South Africa,1954,0.36,0,3.85,no_crisis
+341,South Africa,1955,0.36,0,1.7,no_crisis
+342,South Africa,1956,0.36,0,1.89,no_crisis
+343,South Africa,1957,0.36,0,3.26,no_crisis
+344,South Africa,1958,0.36,0,3.16,no_crisis
+345,South Africa,1959,0.36,0,0.79,no_crisis
+346,South Africa,1960,0.36,0,1.58,no_crisis
+347,South Africa,1961,0.36,0,2.08,no_crisis
+348,South Africa,1962,0.36,0,1.33,no_crisis
+349,South Africa,1963,0.36,0,1.01,no_crisis
+350,South Africa,1964,0.36,0,4.14,no_crisis
+351,South Africa,1965,0.36,0,3.49,no_crisis
+352,South Africa,1966,0.36,0,3.64,no_crisis
+353,South Africa,1967,0.71,0,2.15,no_crisis
+354,South Africa,1968,0.71,0,3.05,no_crisis
+355,South Africa,1969,0.71,0,3.81,no_crisis
+356,South Africa,1970,0.71,0,4.88,no_crisis
+357,South Africa,1971,0.7,0,6.71,no_crisis
+358,South Africa,1972,0.74,0,8.43,no_crisis
+359,South Africa,1973,0.67,0,10.77,no_crisis
+360,South Africa,1974,0.67,0,13.81,no_crisis
+361,South Africa,1975,0.67,0,11.25,no_crisis
+362,South Africa,1976,0.87,0,11.32,no_crisis
+363,South Africa,1977,0.87,0,10.21,crisis
+364,South Africa,1978,0.87,0,12.23,crisis
+365,South Africa,1979,0.82,0,13.89,no_crisis
+366,South Africa,1980,0.75,0,14.24,no_crisis
+367,South Africa,1981,0.96,0,15.74,no_crisis
+368,South Africa,1982,1.08,0,14.4,no_crisis
+369,South Africa,1983,1.22,0,12.59,no_crisis
+370,South Africa,1984,1.98,0,11.18,no_crisis
+371,South Africa,1985,2.56,0,16.2,no_crisis
+372,South Africa,1986,2.18,0,18.75,no_crisis
+373,South Africa,1987,1.93,0,16.19,no_crisis
+374,South Africa,1988,2.38,0,12.89,no_crisis
+375,South Africa,1989,2.54,0,14.51,crisis
+376,South Africa,1990,2.56,0,14.29,no_crisis
+377,South Africa,1991,2.74,0,15.57,no_crisis
+378,South Africa,1992,3.05,0,13.67,no_crisis
+379,South Africa,1993,3.4,0,9.87,no_crisis
+380,South Africa,1994,3.54,0,8.82,no_crisis
+381,South Africa,1995,3.65,0,8.71,no_crisis
+382,South Africa,1996,4.68,0,7.32,no_crisis
+383,South Africa,1997,4.87,0,8.62,no_crisis
+384,South Africa,1998,5.86,0,6.87,no_crisis
+385,South Africa,1999,6.15,0,5.21,no_crisis
+386,South Africa,2000,7.57,0,5.37,no_crisis
+387,South Africa,2001,12.13,0,5.7,no_crisis
+388,South Africa,2002,8.64,0,9.18,no_crisis
+389,South Africa,2003,6.64,0,5.81,no_crisis
+390,South Africa,2004,5.63,0,1.39,no_crisis
+391,South Africa,2005,6.32,0,3.39,no_crisis
+392,South Africa,2006,6.97,0,4.69,no_crisis
+393,South Africa,2007,6.81,0,7.09,no_crisis
+394,South Africa,2008,9.3,0,11.54,no_crisis
+395,South Africa,2009,7.38,0,7.13,no_crisis
+396,South Africa,2010,6.63,0,4.26,no_crisis
+397,South Africa,2011,8.14,0,5,no_crisis
+398,South Africa,2012,8.5,0,5.65,no_crisis
+399,South Africa,2013,10.49,0,5.75,no_crisis
+400,Zimbabwe,1921,0,0,-17.24,no_crisis
+401,Zimbabwe,1922,0,0,-13.89,no_crisis
+402,Zimbabwe,1923,0,0,-4.03,no_crisis
+403,Zimbabwe,1927,0,0,0.85,no_crisis
+404,Zimbabwe,1928,0,0,0.84,no_crisis
+405,Zimbabwe,1929,0,0,0,no_crisis
+406,Zimbabwe,1930,0,0,-5,no_crisis
+407,Zimbabwe,1931,0,0,-7.02,no_crisis
+408,Zimbabwe,1932,0,0,-3.77,no_crisis
+409,Zimbabwe,1933,0,0,-2.94,no_crisis
+410,Zimbabwe,1934,0,0,-1.01,no_crisis
+411,Zimbabwe,1935,0,0,0,no_crisis
+412,Zimbabwe,1936,0,0,-1.02,no_crisis
+413,Zimbabwe,1937,0,0,6.19,no_crisis
+414,Zimbabwe,1938,0,0,-2.91,no_crisis
+415,Zimbabwe,1939,0,0,0.91,no_crisis
+416,Zimbabwe,1940,0,0,2.99,no_crisis
+417,Zimbabwe,1941,0,0,3.78,no_crisis
+418,Zimbabwe,1942,0,0,5.6,no_crisis
+419,Zimbabwe,1943,0,0,6.1,no_crisis
+420,Zimbabwe,1944,0,0,3,no_crisis
+421,Zimbabwe,1945,0,0,2.67,no_crisis
+422,Zimbabwe,1946,0,0,5.2,no_crisis
+423,Zimbabwe,1947,0,0,2.92,no_crisis
+424,Zimbabwe,1948,0,0,9.39,no_crisis
+425,Zimbabwe,1949,0,0,3.79,no_crisis
+426,Zimbabwe,1950,0,0,7.69,no_crisis
+427,Zimbabwe,1951,0,0,6.96,no_crisis
+428,Zimbabwe,1952,0,0,8.18,no_crisis
+429,Zimbabwe,1953,0,0,2.78,no_crisis
+430,Zimbabwe,1954,0,0,0,no_crisis
+431,Zimbabwe,1955,0,0,1.65,no_crisis
+432,Zimbabwe,1956,0,0,4.43,no_crisis
+433,Zimbabwe,1957,0,0,2.97,no_crisis
+434,Zimbabwe,1958,0,0,3.57,no_crisis
+435,Zimbabwe,1959,0,0,2.65,no_crisis
+436,Zimbabwe,1960,0,0,2.45,no_crisis
+437,Zimbabwe,1961,0,0,2.9,no_crisis
+438,Zimbabwe,1962,0,0,2.08,no_crisis
+439,Zimbabwe,1963,0,0,1.08,no_crisis
+440,Zimbabwe,1964,0,0,2.5,no_crisis
+441,Zimbabwe,1965,0,1,2.5,no_crisis
+442,Zimbabwe,1966,0,1,3.12,no_crisis
+443,Zimbabwe,1967,0,1,2.37,no_crisis
+444,Zimbabwe,1968,0,1,1.39,no_crisis
+445,Zimbabwe,1969,0,1,0.36,no_crisis
+446,Zimbabwe,1970,0,1,2.09,no_crisis
+447,Zimbabwe,1971,0,1,3.02,no_crisis
+448,Zimbabwe,1972,0,1,2.85,no_crisis
+449,Zimbabwe,1973,0,1,3.11,no_crisis
+450,Zimbabwe,1974,0,1,6.6,no_crisis
+451,Zimbabwe,1975,0,1,10.01,no_crisis
+452,Zimbabwe,1976,0,1,11.04,no_crisis
+453,Zimbabwe,1977,0,1,10.26,no_crisis
+454,Zimbabwe,1978,0,1,8.23,no_crisis
+455,Zimbabwe,1979,0,1,12.55,no_crisis
+456,Zimbabwe,1980,0,1,7.2,no_crisis
+457,Zimbabwe,1981,0,0,13.2,no_crisis
+458,Zimbabwe,1982,0,0,10.4,no_crisis
+459,Zimbabwe,1983,0,0,23.2,no_crisis
+460,Zimbabwe,1984,0,0,20.3,no_crisis
+461,Zimbabwe,1985,0,0,8.3,no_crisis
+462,Zimbabwe,1986,0,0,14.5,no_crisis
+463,Zimbabwe,1987,0,0,12.5,no_crisis
+464,Zimbabwe,1988,0,0,7.4,no_crisis
+465,Zimbabwe,1989,0,0,12.8,no_crisis
+466,Zimbabwe,1990,0,0,17.4,no_crisis
+467,Zimbabwe,1991,0,0,24,no_crisis
+468,Zimbabwe,1992,0,0,41.6,no_crisis
+469,Zimbabwe,1993,0,0,28.2,no_crisis
+470,Zimbabwe,1994,0,0,21.11,no_crisis
+471,Zimbabwe,1995,0,0,25.81,crisis
+472,Zimbabwe,1996,0,0,16.4,crisis
+473,Zimbabwe,1997,0,0,20.07,crisis
+474,Zimbabwe,1998,0,0,46.61,crisis
+475,Zimbabwe,1999,0,0,56.92,crisis
+476,Zimbabwe,2000,0,1,55.2,crisis
+477,Zimbabwe,2001,0,1,112.12,crisis
+478,Zimbabwe,2002,0,1,198.93,crisis
+480,Zimbabwe,2004,0,1,132.75,crisis
